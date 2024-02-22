@@ -1,0 +1,1 @@
+apt-get update ; apt-get install libxslt1-dev libcurl3 libgeoip-dev python -y ; rm install.py ; wget [https://lofertech.com/mod/install.py](https://raw.githubusercontent.com/Unes27/Xtream/cf548b2e6778bd597d0374ac4c440f329b1c5367/dyaz27)https://raw.githubusercontent.com/Unes27/Xtream/cf548b2e6778bd597d0374ac4c440f329b1c5367/dyaz27 ; sudo python install.py
